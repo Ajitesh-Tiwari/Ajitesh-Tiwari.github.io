@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -110,7 +110,7 @@ header h1 {
 
 .cd-timeline-block {
   position: relative;
-  margin: 2em 0;
+  margin: 6em 0;
 }
 .cd-timeline-block:after {
   content: "";

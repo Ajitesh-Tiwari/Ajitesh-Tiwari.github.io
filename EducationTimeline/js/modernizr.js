@@ -341,7 +341,6 @@ window.Modernizr = (function( window, document, undefined ) {
         return false;
     }
     /*>>testprop*/
-
     // TODO :: add testDOMProps
     /**
      * testDOMProps is a generic DOM property test; if a browser supports
