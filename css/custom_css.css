@@ -153,3 +153,12 @@
   background-color: #375a7f;
   position: relative;
 }
+.flbackdrop {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: white;
+  z-index: 99999; /*Making sure its on top*/
+  position:absolute;
+}
