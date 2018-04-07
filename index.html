@@ -1,554 +1,312 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <!-- Latest compiled and minified CSS -->
-  <!--<link rel="stylesheet" href="css/bootstrap.min.css" >-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <!-- Optional theme -->
-  <link rel="stylesheet" href="css/bootstrap-theme.min.css" >
-  <link href="css/sticky-footer-navbar.css" rel="stylesheet">
-  <!-- Latest compiled and minified JavaScript -->
-  <script src="js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="css/custom-theme.css" >
-  <link rel="stylesheet" href="css/font-awesome.min.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-  <link rel="stylesheet" href="css/custom_css.css" >
-  <script src="js/custom_js.js"></script>
-  <title>Ajitesh Tiwari | Portfolio</title>
-  <link rel="icon" type="image/png" href="images/Businessman-64.png" sizes="32x32">
-  <!-- Google Analytics -->
-  <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js"
+            integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl"
+            crossorigin="anonymous"></script>
 
-  ga('create', 'UA-64526328-2', 'auto');
-  ga('send', 'pageview');
+    <title>Ajitesh Tiwari | Portfolio</title>
+    <link rel="icon" type="image/png" href="images/Businessman-64.png" sizes="32x32">
 
-  </script>
-  <!-- End Google Analytics -->
-  <link rel="stylesheet" href="css/fakeLoader.css">
+    <!-- Google Analytics -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-64526328-2', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <!-- End Google Analytics -->
+    <link rel="stylesheet" href="./css/index.css">
+
 </head>
 <body>
-  <div class="flbackdrop"></div>
-  <div class="fakeloader"></div>
-  <!-- Fixed navbar -->
-  <nav class="navbar navbar-default navbar-fixed-top">
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
     <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
         <a class="navbar-brand" href="#">Ajitesh Tiwari</a>
-      </div>
-      <div id="navbar" class="navbar-collapse collapse">
-        <ul class="nav navbar-nav navbar-right">
-          <li class="active"><a href="#">Home</a></li>
-          <li><a href="#contact" class="smoothScroll">Contact</a></li>
-        </ul>
-      </div><!--/.nav-collapse -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Features</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Pricing</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#">Disabled</a>
+                </li>
+            </ul>
+        </div>
     </div>
-  </nav>
+</nav>
 
-  <div class="jumbotron" >
+<div class="jumbotron jumbotron-fluid">
     <div class="container">
-      <div class="page-header">
-        <div class="row">
-          <div class="col-sm-6 ">
-            <img src="images/profile_image.jpg" class="img-responsive img-circle center-block" alt="Profile Picture" width="200" height="200">
-          </div>
-          <div class="col-sm-6 text-center">
-            <h2>Hello</h2>
-            <p>I am <b>Ajitesh Tiwari</b>.</p>
-            <p>Engineer + Developer + Programmer + Artist + ..</p>
-            <button onclick="window.open('./Documents/Ajitesh_Tiwari.pdf');" type="button" class="btn btn-primary center-block btn-lg"><i class="fa fa-download"></i>  Resume</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="container-fluid">
-    <h1 class="text-center"><i class="fa fa-graduation-cap fa-border"></i> Education</h1>
-    <hr/>
-    <iframe src="EducationTimeline/education.html" width="100%" height="2400" frameborder=0 scrolling="no"></iframe>
-    <hr/>
-    <h1 class="text-center"><i class="fa fa-briefcase fa-border"></i> Work Experience</h1>
-    <hr/>
-    <div class="row">
-      <div class="row-sm-height">
-        <div class="col-sm-4 col-sm-height col-sm-middle">
-          <img src="images/iris_logo.gif" class="img-responsive center-block" alt="Iris Logo" width="200" height="200">
-        </div>
-        <div class="col-sm-8 col-sm-height col-sm-middle">
-          <h2 class="text-center">Intern at Iris Software
-          </h2>
-          <blockquote>
-            <p>Iris Software is a professional software services organization offering high-quality solutions to businesses. It services the information technology requirements of companies ranging from the Fortune 100 to medium-sized firms by utilizing specialized domain knowledge, best-of-breed technologies, rapidly deployable proprietary frameworks/solutions and flexible engagement models.
-            </p>
-          </blockquote>
-          <button onclick="window.open('./Documents/Iris_Certificate.pdf');" type="button" class="btn btn-primary center-block btn-lg"><i class="fa fa-download"></i>  Certificate</button>
-        </div>
-      </div>
-    </div>
-    <hr/>
-    <div class="row">
-      <div class="row-sm-height">
-        <div class="col-sm-4 col-sm-height col-sm-middle col-sm-push-8">
-          <img src="images/webarch_logo.png" class="img-responsive center-block" alt="Iris Logo" width="200" height="200">
-        </div>
-        <div class="col-sm-8 col-sm-height col-sm-middle col-sm-pull-4">
-          <h2 class="text-center">Android Application Developer at Webarch
-          </h2>
-          <blockquote class="blockquote-reverse">
-            <p>We are a Team of young, proficient and energetic minds who strive to deliver their best. We are the oldest technical club of SRM University. Our team consists of an Amalgam of Talented Designers, Developers, Video Makers and Writers. </p>
-          </blockquote>
-          <button onclick="window.open('http://webarchsrm.com/');" target="_blank" type="button" class="btn btn-primary center-block btn-lg"><i class="fa fa-chrome"></i>  Website</button>
-        </div>
-
-      </div>
-    </div>
-    <hr/>
-    <h1 class="text-center"><i class="fa fa-certificate fa-border"></i> Certifications</h1>
-    <hr/>
-    <div class="row">
-      <div class="row-md-height">
-        <div class="col-md-3 col-md-height col-md-top">
-          <img src="images/androidnano.png" class="img-responsive center-block" alt="Iris Logo" width="150" height="150">
-          <hr/>
-          <h2 class="text-center">Android Developer Nanodegree</h2>
-          <hr/>
-          <p class="text-center">Curriculum is designed to transform those with intermediate skills and a working knowledge of Java development best practices into specialists with the Android platform. Successful completion of the program means a diverse portfolio of projects to show employers, an established credential to affirm your achievements, and your own app on the Google Play Store.</p>
-          <br/>
-          <button onclick="window.open('./Documents/Android_Nanodegree.pdf');"type="button" class="btn btn-default center-block btn-lg"><i class="fa fa-download"></i>  Certificate</button>
-          <hr/>
-        </div>
-        <div class="col-md-3 col-md-height col-md-top">
-          <img src="images/HTML5.png" class="img-responsive center-block" alt="Iris Logo" width="150" height="150">
-          <hr/>
-          <h2 class="text-center">HTML 5</h2>
-          <hr/>
-          <p class="text-center">HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current version of the HTML standard. HTML5 includes detailed processing models to encourage more interoperable implementations; it extends, improves and rationalizes the markup available for documents, and introduces markup and application programming interfaces (APIs) for complex web applications.</p>
-          <br/>
-          <button onclick="window.open('https://courses.edx.org/certificates/cff801f94aaa4e99aa50ecde0ede2c64');" type="button" class="btn btn-default center-block btn-lg"><i class="fa fa-download"></i>  Certificate - Part 1</button>
-          <br/>
-          <button onclick="window.open('https://courses.edx.org/certificates/a3302d555b554445ac1e909e9bf51407');" type="button" class="btn btn-default center-block btn-lg"><i class="fa fa-download"></i>  Certificate - Part 2</button>
-          <hr/>
-        </div>
-        <div class="col-md-3 col-md-height col-md-top">
-          <img src="images/Java.png" class="img-responsive center-block" alt="Iris Logo" width="150" height="150">
-          <hr/>
-          <h2 class="text-center">Object Oriented Programming in Java</h2>
-          <hr/>
-          <p class="text-center">Java is a set of computer software and specifications developed by Sun Microsystems, which was later acquired by the Oracle Corporation, that provides a system for developing application software and deploying it in a cross-platform computing environment. Java is used in a wide variety of computing platforms from embedded devices and mobile phones to enterprise servers and supercomputers.</p>
-          <br/>
-          <button onclick="window.open('https://www.coursera.org/account/accomplishments/certificate/CZJXAGFLBARK');"type="button" class="btn btn-default center-block btn-lg"><i class="fa fa-download"></i>  Certificate</button>
-          <hr/>
-        </div>
-        <div class="col-md-3 col-md-height col-md-top">
-          <img src="images/bigdata.png" class="img-responsive center-block" alt="Iris Logo" width="150" height="150">
-          <hr/>
-          <h2 class="text-center">Introduction to Big Data</h2>
-          <hr/>
-          <p class="text-center">Big data is a term for data sets that are so large or complex that traditional data processing applications are inadequate. Challenges include analysis, capture, data curation, search, sharing, storage, transfer, visualization, querying and information privacy. The term often refers simply to the use of predictive analytics or certain other advanced methods to extract value from data, and seldom to a particular size of data set. Accuracy in big data may lead to more confident decision making, and better decisions can result in greater operational efficiency, cost reduction and reduced risk.</p>
-          <br/>
-          <button onclick="window.open('https://www.coursera.org/account/accomplishments/certificate/UHFK2DAYT2TT');" type="button" class="btn btn-default center-block btn-lg"><i class="fa fa-download"></i>  Certificate</button>
-          <hr/>
-        </div>
-      </div>
-    </div>
-    <hr/>
-    <div class="row">
-      <div class="row-md-height">
-        <div class="col-md-3 col-md-height col-md-top">
-          <img src="images/Bootstrap.jpg" class="img-responsive center-block" alt="Iris Logo" width="150" height="150">
-          <hr/>
-          <h2 class="text-center">Introduction to Bootstrap</h2>
-          <hr/>
-          <p class="text-center">Bootstrap is a free and open-source collection of tools for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. It aims to ease the development of dynamic websites and web applications.</p>
-          <br/>
-          <button onclick="window.open('https://s3.amazonaws.com/verify.edx.org/downloads/ef5f95b3b9db420c94377e9ac288d0fc/Certificate.pdf');" type="button" class="btn btn-default center-block btn-lg"><i class="fa fa-download"></i>  Certificate</button>
-          <hr/>
-        </div>
-        <div class="col-md-3 col-md-height col-md-top">
-          <img src="images/Python_logo.png" class="img-responsive center-block" alt="Iris Logo" width="150" height="150">
-          <hr/>
-          <h2 class="text-center">Introduction to Computer Science and Programming Using Python</h2>
-          <hr/>
-          <p class="text-center">Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java. The language provides constructs intended to enable clear programs on both a small and large scale.</p>
-          <br/>
-          <button onclick="window.open('https://courses.edx.org/certificates/cef810f6cd724d5da31ab62306ac4b3b');" type="button" class="btn btn-default center-block btn-lg"><i class="fa fa-download"></i>  Certificate</button>
-          <hr/>
-        </div>
-        <div class="col-md-3 col-md-height col-md-top">
-          <img src="images/IIT_Madras.png" class="img-responsive center-block" alt="Iris Logo" width="150" height="150">
-          <hr/>
-          <h2 class="text-center">Programming, Data Structures and Algorithms</h2>
-          <hr/>
-          <p class="text-center">Data structures provide a means to manage large amounts of data efficiently for uses such as large databases and internet indexing services. Usually, efficient data structures are key to designing efficient algorithms. Some formal design methods and programming languages emphasize data structures, rather than algorithms, as the key organizing factor in software design. Storing and retrieving can be carried out on data stored in both main memory and in secondary memory.</p>
-          <br/>
-          <button onclick="window.open('./Documents/NPTEL_DSA.jpg');"type="button" class="btn btn-default center-block btn-lg"><i class="fa fa-download"></i>  Certificate</button>
-          <hr/>
-        </div>
-        <div class="col-md-3 col-md-height col-md-top">
-          <img src="images/IIT_Kanpur.png" class="img-responsive center-block" alt="Iris Logo" width="150" height="150">
-          <hr/>
-          <h2 class="text-center">Introduction to Programming in C</h2>
-          <hr/>
-          <p class="text-center">C was originally developed by Dennis Ritchie between 1969 and 1973 at AT&T Bell Labs, and used to re-implement the Unix operating system. It has since become one of the most widely used programming languages of all time, with C compilers from various vendors available for the majority of existing computer architectures and operating systems. C has been standardized by the American National Standards Institute (ANSI) since 1989 (see ANSI C) and subsequently by the International Organization for Standardization (ISO).</p>
-          <br/>
-          <button onclick="window.open('./Documents/NPTEL_C.jpg');" type="button" class="btn btn-default center-block btn-lg"><i class="fa fa-download"></i>  Certificate</button>
-          <hr/>
-        </div>
-      </div>
-    </div>
-    <hr/>
-    <h1 class="text-center"><i class="fa fa-cogs fa-border"></i> Projects</h1>
-    <hr/>
-    <div class="row">
-      <div class="row-sm-height">
-        <div class="col-sm-4 col-sm-height col-sm-middle col-sm-push-8">
-          <img src="images/joker_logo.png" class="img-responsive center-block" alt="Joker Logo" width="200" height="200">
-        </div>
-        <div class="col-sm-8 col-sm-height col-sm-middle col-sm-pull-4">
-          <h2 class="text-center">Joker
-          </h2>
-          <blockquote>
-            <p>Android application built using Gradle App Engine plugin as backend and hosted on Google Play Store.
-              Includes both free and paid flavors along with multi project build configuration to compile multiple libraries.</p>
-          </blockquote>
-          <div class="row">
-            <div class="col-xs-6">
-              <button onclick="window.open('https://play.google.com/store/apps/details?id=com.udacity.gradle.builditbigger');" type="button" class="btn btn-primary center-block btn-lg"><i class="fa fa-play"></i>  PlayStore</button>
+        <div class="row align-items-center">
+            <div class="col-sm-6">
+                <img src="images/profile_image.jpg" class="mx-auto d-block rounded-circle"
+                     alt="Profile Picture" width="200" height="200">
             </div>
-            <div class="col-xs-6">
-              <button onclick="window.open('https://ajitesh-tiwari.github.io/Joker/');" type="button" class="btn btn-danger center-block btn-lg"><i class="fa fa-chrome"></i>  Project Page</button>
+            <div class="col-sm-6 text-center">
+                <h1>Hello</h1>
+                <h4>I am <b>Ajitesh Tiwari</b>.</h4>
+                <p>Engineer + Developer + Programmer + Artist + ..</p>
+                <button onclick="window.open('./Documents/Ajitesh_Tiwari.pdf');" type="button"
+                        class="btn btn-dark center-block btn-lg">Resume
+                </button>
             </div>
-          </div>
         </div>
-      </div>
     </div>
-    <hr/>
-    <div class="row">
-      <div class="row-sm-height">
-        <div class="col-sm-4 col-sm-height col-sm-middle">
-          <img src="images/stockhawk.png" class="img-responsive center-block" alt="Stockhawk Logo" width="200" height="200">
-        </div>
-        <div class="col-sm-8 col-sm-height col-sm-middle">
-          <h2 class="text-center">Stock Hawk
-          </h2>
-          <blockquote>
-            <p>Android application build using Yahoo Finance API and hosted on Google Play Store. Displays stock information including a graph with zoom capabilities supporting English, Arabic ( RTL ) and Hindi language. Application is accessible to sight-impaired users using Google Talkback and also includes a widget.
-            </p>
-          </blockquote>
-          <div class="row">
-            <div class="col-xs-6">
-              <button onclick="window.open('https://play.google.com/store/apps/details?id=com.ajitesh.android.stockhawk');" type="button" class="btn btn-primary center-block btn-lg"><i class="fa fa-play"></i>  PlayStore</button>
-            </div>
-            <div class="col-xs-6">
-              <button onclick="window.open('https://ajitesh-tiwari.github.io/StockHawk/');" type="button" class="btn btn-danger center-block btn-lg"><i class="fa fa-chrome"></i>  Project Page</button>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <hr/>
-    <div class="row">
-      <div class="row-sm-height">
-        <div class="col-sm-4 col-sm-height col-sm-middle col-sm-push-8">
-          <img src="images/popmovies.png" class="img-responsive center-block" alt="PopularMovies Logo" width="200" height="200">
-        </div>
-        <div class="col-sm-8 col-sm-height col-sm-middle col-sm-pull-4">
-          <h2 class="text-center">Popular Movies
-          </h2>
-          <blockquote class="blockquote-reverse">
-            <p>Android application build using The Movie Database ( TMDb ) API and hosted on Google Play Store. Displays 'Most Popular' and 'Top Rated' movies along with details ( Plot, Rating, Reviews, Trailers, etc. ). Supports Multi Pane tablet view and sharing of movies on other platforms.</p>
-          </blockquote>
-          <div class="row">
-            <div class="col-xs-6">
-              <button onclick="window.open('https://play.google.com/store/apps/details?id=com.ajitesh.android.popularmovies');" target="_blank" type="button" class="btn btn-primary center-block btn-lg"><i class="fa fa-play"></i>  PlayStore</button>
-            </div>
-            <div class="col-xs-6">
-              <button onclick="window.open('https://ajitesh-tiwari.github.io/Popular-Movies/');" type="button" class="btn btn-danger center-block btn-lg"><i class="fa fa-chrome"></i>  Project Page</button>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <hr/>
-    <div class="row">
-      <div class="row-sm-height">
-        <div class="col-sm-4 col-sm-height col-sm-middle">
-          <img src="images/desk_icon.png" class="img-responsive center-block" alt="Desk Logo" width="200" height="200">
-        </div>
-        <div class="col-sm-8 col-sm-height col-sm-middle">
-          <h2 class="text-center">SRM Desk
-          </h2>
-          <blockquote>
-            <p>Website and Android application build to improve teacher and student communication and hosted on Digital Ocean and Google Play Store. Uses Google Cloud Messaging ( GCM ) and PHP service to retrieve JSON data.
-            </p>
-          </blockquote>
-          <button onclick="window.open('https://play.google.com/store/apps/details?id=com.webarch.android.desk');" type="button" class="btn btn-primary center-block btn-lg"><i class="fa fa-play"></i>  PlayStore</button>
-        </div>
-      </div>
-    </div>
-    <hr/>
-    <div class="row">
-      <iframe src="MobileShowcase/mobile.html" width="100%" height="600" frameborder=0 scrolling="no"></iframe>
-    </div>
-    <br/><br/>
-    <div class="row">
-      <div class="col-xs-6">
-        <button onclick="window.open('https://play.google.com/store/apps/details?id=webarch.aaruush15');" type="button" class="btn btn-primary center-block btn-lg"><i class="fa fa-play"></i>  Playstore</button>
-      </div>
-      <div class="col-xs-6">
-        <button onclick="window.open('https://github.com/Ajitesh-Tiwari/Aaruush-15');" type="button" class="btn btn-danger center-block btn-lg"><i class="fa fa-github"></i>  Github</button>
-      </div>
-    </div>
-    <hr/>
-
-    <h1 class="text-center"><i class="fa fa-pie-chart fa-border"></i> Skills</h1>
-    <hr/>
-    <div class="row">
-      <div class="col-sm-4" >
-        <h3 class="text-center">Professional Skills</h3>
-        <hr/>
-        <span>Android Application Development</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-            90%
-          </div>
-        </div>
-
-        <span>Web Development/Designing</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-            70%
-          </div>
-        </div>
-        <span>Wordpress</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-            80%
-          </div>
-        </div>
-        <span>Bootstrap</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-            90%
-          </div>
-        </div>
-        <span>Django</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
-            40%
-          </div>
-        </div>
-        <span>Photoshop</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">
-            50%
-          </div>
-        </div>
-        <span>Git</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
-            60%
-          </div>
-        </div>
-        <span>Cloud Computing</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%;">
-            30%
-          </div>
-        </div>
-        <span>Linux Command Line Interface</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
-            20%
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <h3 class="text-center">Personal Skills</h3>
-        <hr/>
-        <span>Communication</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
-            60%
-          </div>
-        </div>
-        <span>Teamwork</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-            80%
-          </div>
-        </div>
-        <span>Creativity</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-            90%
-          </div>
-        </div>
-        <span>Leadership</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
-            60%
-          </div>
-        </div>
-        <span>Management</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">
-            50%
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <h3 class="text-center">Programming Skills</h3>
-        <hr/>
-        <span>Java</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-            80%
-          </div>
-        </div>
-        <span>C/C++</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
-            60%
-          </div>
-        </div>
-        <span>Python</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
-            40%
-          </div>
-        </div>
-        <span>PHP</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
-            40%
-          </div>
-        </div>
-        <span>SQL</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
-            60%
-          </div>
-        </div>
-        <span>HTML/CSS</span>
-        <div class="progress">
-          <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-            80%
-          </div>
-        </div>
-      </div>
-    </div>
-    <hr/>
-    <h1 class="text-center"><i class="fa fa-pencil fa-border"></i> Hobbies and Interests</h1>
-    <hr/>
-    <div class="row text-center">
-      <div class="col-sm-2 col-xs-6">
-        <i class="fa fa-gamepad fa-5x"></i>
-      </br></br>
-    </div>
-    <div class="col-sm-2 col-xs-6">
-      <i class="fa fa-bed fa-5x"></i>
-    </br></br>
-  </div>
-  <div class="col-sm-2 col-xs-6">
-    <i class="fa fa-code fa-5x"></i>
-  </br></br>
-</div>
-<div class="col-sm-2 col-xs-6">
-  <i class="fa fa-film fa-5x"></i>
-</br></br>
-</div>
-<div class="col-sm-2 col-xs-6">
-  <i class="fa fa-paint-brush fa-5x"></i>
-</br></br>
-</div>
-<div class="col-sm-2 col-xs-6">
-  <i class="fa fa-music fa-5x"></i>
-</br></br>
-</div>
 </div>
 
-<div id="contact" class="container-fluid">
-  <br/><hr/>
-  <h1 class="text-center"><i class="fa fa-envelope fa-border"></i> Contact Me</h1>
-  <hr/>
-  <div class="row">
-    <img class="img-responsive" width="100%" src="https://maps.googleapis.com/maps/api/staticmap?markers=12.822888,80.045890&zoom=12&size=800x200&scale=2&key=AIzaSyCn3ydw0pPcv7KrjpDD_6qOSxBGsx1Q63c"/>
-  </div>
-  <div class="container">
-    <div class="row">
-      <div class="row-sm-height">
-        <div class="col-sm-4 col-sm-height col-sm-middle">
-          <h3><i class="fa fa-map-marker"></i> Current Address-</h3>
-          <p>Room No- 301, Z-Block, Abode Valley, Kakkan Street, Potheri, Kancheepuram - 603203.</p>
-          <hr/>
-          <h3><i class="fa fa-home"></i> Permanent Address-</h3>
-          <p>255/96/12, Nigam Bagh, Kundri, Rakabganj, Lucknow - 226004.</p>
+<div class="container">
+    <div class="row align-items-center">
+        <div class="col text-center">
+            <a target="_blank" href="https://github.com/Ajitesh-Tiwari/">
+                <i class="fab fa-github fa-2x"></i>
+            </a>
         </div>
-        <div class="col-sm-8 col-sm-height col-sm-middle">
-          <br/>
-          <p class="text-center"><i class="fa fa-mobile fa-2x"></i><b> Number-</b> 8939163843</p>
-          <br/>
-          <p class="text-center"><i class="fa fa-envelope fa-2x"></i><b> Email-</b> ajiteshtiwari2011@gmail.com</p>
+        <div class="col text-center">
+            <a target="_blank" href="https://www.linkedin.com/in/ajiteshtiwari">
+                <i class="fab fa-linkedin-in fa-2x"></i>
+            </a>
         </div>
-      </div>
+        <div class="col text-center">
+            <a target="_blank" href="https://twitter.com/i_am_ajitesh">
+                <i class="fab fa-twitter fa-2x"></i>
+            </a>
+        </div>
+        <div class="col text-center">
+            <a target="_blank" href="https://www.facebook.com/ajitesh.tiwari.52">
+                <i class="fab fa-facebook-square fa-2x"></i>
+            </a>
+        </div>
+        <div class="col text-center">
+            <a target="_blank" href="https://dev.to/ajiteshtiwari">
+                <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ajitesh Tiwari's DEV Profile"
+                     height="30" width="30"/>
+            </a>
+        </div>
     </div>
-  </div>
 </div>
-<hr/>
+
+<hr class="my-4">
+
+<div class="container-fluid">
+    <div class="row align-items-center">
+        <div class="col-md-3 text-center">
+            <h1>About</h1>
+        </div>
+        <div class="col-md-9">
+            <p>I am a passionate Computer Engineer, full-stack developer and Java enthusiast with substantial years of
+                experience. I have good problem solving skills and want to solve complex real world problems. I love to
+                work on new technologies and enhance my skill set. </p>
+            <p>Colleagues know me as a highly creative and smart working developer who can always be trusted to come up
+                with a new approach. I can (and often do) work well alone, but I’m at my best collaborating with
+                others.</p>
+        </div>
+    </div>
 </div>
+
+<hr class="my-4">
+
+<div class="container-fluid text-center">
+    <h1>Work Experience</h1>
+</div>
+
+<hr class="my-4">
+
+<div class="container-fluid">
+    <div class="row align-items-center">
+        <div class="col-md-3 text-center">
+            <img src="./images/mrcooper.svg" class="mx-auto d-block .img-fluid"/>
+        </div>
+        <div class="col-md-9">
+            <p>Currently, I am working as a full-stack polyglot developer at <a target="_blank"
+                                                                                href="https://www.mrcooper.com/">Mr.
+                Cooper</a>. We build user friendly, reliable and responsive applications for our customers by using
+                advanced technologies and tools.</p>
+        </div>
+    </div>
+</div>
+
+<hr class="my-4">
+
+<div class="container-fluid text-center">
+    <h1>Projects</h1>
+</div>
+
+<hr class="my-4">
+
+<div class="container-fluid">
+    <div class="row align-items-center">
+        <div class="col-lg-4">
+            <div class="card">
+                <div class="card-header">
+                    Joker
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Android application built using Gradle App Engine plugin as backend and hosted
+                        on
+                        Google Play Store. Includes both free and paid flavors along with multi project build
+                        configuration
+                        to
+                        compile multiple libraries.</p>
+                    <a href="https://play.google.com/store/apps/details?id=com.udacity.gradle.builditbigger"
+                       class="btn btn-dark">Playstore</a>
+                    <a href="https://ajitesh-tiwari.github.io/Joker/" class="btn btn-info">Project Page</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="card">
+                <div class="card-header">
+                    Stock hawk
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Android application build using Yahoo Finance API and hosted on Google Play
+                        Store. Displays stock
+                        information including a graph with zoom capabilities supporting English, Arabic ( RTL ) and
+                        Hindi language. Application is accessible to sight-impaired users using Google Talkback and also
+                        includes a widget.</p>
+                    <a href="https://play.google.com/store/apps/details?id=com.ajitesh.android.stockhawk"
+                       class="btn btn-dark">Playstore</a>
+                    <a href="https://ajitesh-tiwari.github.io/StockHawk/" class="btn btn-info">Project Page</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="card">
+                <div class="card-header">
+                    Popular Movies
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Android application build using The Movie Database ( TMDb ) API and hosted on
+                        Google Play Store.
+                        Displays 'Most Popular' and 'Top Rated' movies along with details ( Plot, Rating, Reviews,
+                        Trailers, etc. ). Supports Multi Pane tablet view and sharing of movies on other platforms.</p>
+                    <a href="https://play.google.com/store/apps/details?id=com.ajitesh.android.popularmovies"
+                       class="btn btn-dark">Playstore</a>
+                    <a href="https://ajitesh-tiwari.github.io/Popular-Movies/" class="btn btn-info">Project Page</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr class="my-4">
+
+<div class="container-fluid text-center">
+    <h1>Articles</h1>
+</div>
+
+<hr class="my-4">
+
+<div class="container-fluid">
+    <div class="row align-items-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    Go functional with Java
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Lambda is a function which acts like an object. Can be passed anywhere. Can be
+                        executed whenever needed. Can be defined in a single line. Can be created without a class. And
+                        much more. It helps to remove a lot of boilerplate code previously required by Java.</p>
+                    <a href="https://dev.to/ajiteshtiwari/go-functional-with-java-45ac"
+                       class="btn btn-dark">Article</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    Java 9 Flow API
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Flow API is Java's official support for Reactive Streams Specification. It is a
+                        combination of both Iterator(Pull) and Observer(Push) patterns.</p>
+                    <a href="https://dev.to/ajiteshtiwari/java-9-flow-api-4e38"
+                       class="btn btn-dark">Article</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr class="my-4">
+
 <footer class="footer">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8">
-        <p class="text-muted text-center">Ajitesh Tiwari <i class="fa fa-copyright"></i></p>
-      </div>
-      <div class="col-md-4 text-center">
-        <span class="fa-stack fa-2x">
-          <a target="_blank" href="https://plus.google.com/u/0/115473772711819008419/"><i class="fa fa-google-plus fa-stack-1x"></i></a>
-        </span>
-
-        <span class="fa-stack fa-2x">
-          <a target="_blank" href="https://www.facebook.com/ajitesh.tiwari.52"><i class="fa fa-facebook fa-stack-1x"></i></a>
-        </span>
-
-        <span class="fa-stack fa-2x">
-          <a target="_blank" href="https://www.linkedin.com/profile/view?id=AAIAABRG3CkBmZfJP7Ia06Vv1ROBQUJ7-lGCzRU&trk=nav_responsive_tab_profile_pic"><i class="fa fa-linkedin fa-stack-1x"></i></a>
-        </span>
-
-        <span class="fa-stack fa-2x">
-          <a target="_blank" href="https://github.com/Ajitesh-Tiwari/"><i class="fa fa-github fa-stack-1x"></i></a>
-        </span>
-      </div>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col text-center">
+                <a target="_blank" href="https://github.com/Ajitesh-Tiwari/">
+                    <i class="fab fa-github fa-2x"></i>
+                </a>
+            </div>
+            <div class="col text-center">
+                <a target="_blank" href="https://www.linkedin.com/in/ajiteshtiwari">
+                    <i class="fab fa-linkedin-in fa-2x"></i>
+                </a>
+            </div>
+            <div class="col text-center">
+                <a target="_blank" href="https://twitter.com/i_am_ajitesh">
+                    <i class="fab fa-twitter fa-2x"></i>
+                </a>
+            </div>
+            <div class="col text-center">
+                <a target="_blank" href="https://www.facebook.com/ajitesh.tiwari.52">
+                    <i class="fab fa-facebook-square fa-2x"></i>
+                </a>
+            </div>
+            <div class="col text-center">
+                <a target="_blank" href="https://dev.to/ajiteshtiwari">
+                    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ajitesh Tiwari's DEV Profile"
+                         height="30" width="30"/>
+                </a>
+            </div>
+        </div>
     </div>
-  </div>
 </footer>
-<!-- Bootstrap core JavaScript
-================================================== -->
-<!-- Placed at the end of the document so the pages load faster -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/smoothscroll.js"></script>
-<script src="js/fakeLoader.min.js"></script>
-<script>
-$(document).ready(function(){
-  $(".fakeloader").fakeLoader({
-    timeToHide:1500,
-    bgColor:"#222222",
-    spinner:"spinner4"
-  });
-  $(".flbackdrop").remove();
-});
-</script>
+
+<hr class="my-4">
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
 </body>
 </html>

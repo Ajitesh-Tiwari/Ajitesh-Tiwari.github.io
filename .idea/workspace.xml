@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0dadb3c-ce0d-4faf-9eb4-8b54f71c6a08" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/EducationTimeline/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EducationTimeline/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EducationTimeline/education.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EducationTimeline/img/cd-icon-college.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EducationTimeline/img/cd-icon-location.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EducationTimeline/img/cd-icon-movie.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EducationTimeline/img/cd-icon-picture.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EducationTimeline/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EducationTimeline/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/css/component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/css/component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/css/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/fonts/codropsicons/codropsicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/fonts/codropsicons/codropsicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/fonts/codropsicons/codropsicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/fonts/codropsicons/codropsicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/fonts/codropsicons/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/iPhone5_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen1_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen2_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen2_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen2_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/js/classie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/js/modernizr.custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/js/phoneSlideshow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileShowcase/mobile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom_css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fakeLoader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/sticky-footer-navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom_js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fakeLoader.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/smoothscroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/font-awesome.scss" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="276" column="21" lean-forward="true" selection-start-line="276" selection-start-column="21" selection-end-line="276" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>page-header</find>
+      <find>navbar-right</find>
+      <find>fill</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/images/dev-badge.svg" />
+        <option value="$PROJECT_DIR$/images/mrcooper.svg" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="23" />
+    <option name="width" value="1615" />
+    <option name="height" value="947" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ajitesh-Tiwari.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ajitesh-Tiwari.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0dadb3c-ce0d-4faf-9eb4-8b54f71c6a08" name="Default" comment="" />
+      <created>1523108217715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523108217715</updated>
+      <workItem from="1523108219261" duration="18386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18386000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="23" width="1615" height="947" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24968633" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/custom_js.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Python_logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/stockhawk.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/webarch_logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Businessman-64.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/desk_icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/myiitstory.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/popmovies.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/profile_image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom-theme.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="186" column="16" selection-start-line="186" selection-start-column="16" selection-end-line="186" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/HTML5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom_css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/dev-badge.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extras/Google-Play-button.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/A-64.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/androidnano.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/mrcooper.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/core.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="276" column="21" lean-forward="true" selection-start-line="276" selection-start-column="21" selection-end-line="276" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
