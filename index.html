@@ -4,9 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <!--&lt;!&ndash; Bootstrap CSS &ndash;&gt;-->
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"-->
+    <!--integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">-->
+
+    <link rel="stylesheet" href="https://bootswatch.com/4/lumen/bootstrap.min.css">
 
     <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js"
             integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl"
@@ -68,7 +70,7 @@
 <div class="jumbotron jumbotron-fluid">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-sm-6">
+            <div class="col-sm-6 my-3">
                 <img src="images/profile_image.jpg" class="mx-auto d-block rounded-circle"
                      alt="Profile Picture" width="200" height="200">
             </div>
@@ -119,27 +121,25 @@
     <section id="about">
         <hr class="my-4">
 
-        <div class="container-fluid">
-            <div class="row align-items-center">
-                <div class="col-md-3 text-center">
-                    <h1>About</h1>
-                </div>
-                <div class="col-md-9">
-                    <p>I am a passionate Computer Engineer, full-stack developer and Java enthusiast with substantial
-                        years
-                        of
-                        experience. I have good problem solving skills and want to solve complex real world problems. I
-                        love
-                        to
-                        work on new technologies and enhance my skill set. </p>
-                    <p>Colleagues know me as a highly creative and smart working developer who can always be trusted to
-                        come
-                        up
-                        with a new approach. I can (and often do) work well alone, but I’m at my best collaborating with
-                        others.</p>
-                </div>
-            </div>
+        <div class="container-fluid text-center">
+            <h1>About</h1>
         </div>
+
+        <hr class="my-4">
+
+        <div class="container">
+            <p>I am a passionate Computer Engineer, full-stack developer and Java enthusiast with substantial
+                years
+                of
+                experience. I have good problem solving skills and want to solve complex real world problems. I
+                love
+                to
+                work on new technologies and enhance my skill set. </p>
+            <p>Colleagues know me as a highly creative and smart working developer who can always be trusted to
+                come
+                up
+                with a new approach. I can (and often do) work well alone, but I’m at my best collaborating with
+                others.</p>
     </section>
 
     <section id="experience">
@@ -153,13 +153,14 @@
 
         <div class="container-fluid">
             <div class="row align-items-center">
-                <div class="col-md-3 text-center">
+                <div class="col-md-3 text-center my-3">
                     <img src="./images/mrcooper.svg" class="mx-auto d-block .img-fluid"/>
                 </div>
                 <div class="col-md-9">
                     <p>Currently, I am working as a full-stack polyglot developer at <a target="_blank"
                                                                                         href="https://www.mrcooper.com/">Mr.
-                        Cooper</a>. We build user friendly, reliable and responsive applications for our customers by using
+                        Cooper</a>. We build user friendly, reliable and responsive applications for our customers by
+                        using
                         advanced technologies and tools.</p>
                 </div>
             </div>
@@ -177,13 +178,14 @@
 
         <div class="container-fluid">
             <div class="row align-items-center">
-                <div class="col-lg-4">
+                <div class="col-lg-4 my-3">
                     <div class="card">
                         <div class="card-header">
                             Joker
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Android application built using Gradle App Engine plugin as backend and hosted
+                            <p class="card-text">Android application built using Gradle App Engine plugin as backend and
+                                hosted
                                 on
                                 Google Play Store. Includes both free and paid flavors along with multi project build
                                 configuration
@@ -195,16 +197,19 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 my-3">
                     <div class="card">
                         <div class="card-header">
                             Stock hawk
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Android application build using Yahoo Finance API and hosted on Google Play
+                            <p class="card-text">Android application build using Yahoo Finance API and hosted on Google
+                                Play
                                 Store. Displays stock
-                                information including a graph with zoom capabilities supporting English, Arabic ( RTL ) and
-                                Hindi language. Application is accessible to sight-impaired users using Google Talkback and also
+                                information including a graph with zoom capabilities supporting English, Arabic ( RTL )
+                                and
+                                Hindi language. Application is accessible to sight-impaired users using Google Talkback
+                                and also
                                 includes a widget.</p>
                             <a href="https://play.google.com/store/apps/details?id=com.ajitesh.android.stockhawk"
                                class="btn btn-dark">Playstore</a>
@@ -212,19 +217,23 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 my-3">
                     <div class="card">
                         <div class="card-header">
                             Popular Movies
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Android application build using The Movie Database ( TMDb ) API and hosted on
+                            <p class="card-text">Android application build using The Movie Database ( TMDb ) API and
+                                hosted on
                                 Google Play Store.
-                                Displays 'Most Popular' and 'Top Rated' movies along with details ( Plot, Rating, Reviews,
-                                Trailers, etc. ). Supports Multi Pane tablet view and sharing of movies on other platforms.</p>
+                                Displays 'Most Popular' and 'Top Rated' movies along with details ( Plot, Rating,
+                                Reviews,
+                                Trailers, etc. ). Supports Multi Pane tablet view and sharing of movies on other
+                                platforms.</p>
                             <a href="https://play.google.com/store/apps/details?id=com.ajitesh.android.popularmovies"
                                class="btn btn-dark">Playstore</a>
-                            <a href="https://ajitesh-tiwari.github.io/Popular-Movies/" class="btn btn-info">Project Page</a>
+                            <a href="https://ajitesh-tiwari.github.io/Popular-Movies/" class="btn btn-info">Project
+                                Page</a>
                         </div>
                     </div>
                 </div>
@@ -243,27 +252,30 @@
 
         <div class="container-fluid">
             <div class="row align-items-center">
-                <div class="col-md-6">
+                <div class="col-md-6 my-3">
                     <div class="card">
                         <div class="card-header">
                             Go functional with Java
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Lambda is a function which acts like an object. Can be passed anywhere. Can be
-                                executed whenever needed. Can be defined in a single line. Can be created without a class. And
+                            <p class="card-text">Lambda is a function which acts like an object. Can be passed anywhere.
+                                Can be
+                                executed whenever needed. Can be defined in a single line. Can be created without a
+                                class. And
                                 much more. It helps to remove a lot of boilerplate code previously required by Java.</p>
                             <a href="https://dev.to/ajiteshtiwari/go-functional-with-java-45ac"
                                class="btn btn-dark">Article</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 my-3">
                     <div class="card">
                         <div class="card-header">
                             Java 9 Flow API
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Flow API is Java's official support for Reactive Streams Specification. It is a
+                            <p class="card-text">Flow API is Java's official support for Reactive Streams Specification.
+                                It is a
                                 combination of both Iterator(Pull) and Observer(Push) patterns.</p>
                             <a href="https://dev.to/ajiteshtiwari/java-9-flow-api-4e38"
                                class="btn btn-dark">Article</a>
@@ -277,7 +289,7 @@
 
 <hr class="my-4">
 
-<footer class="footer">
+<footer class="footer my-5">
     <div class="container">
         <div class="row align-items-center">
             <div class="col text-center">
@@ -309,8 +321,6 @@
         </div>
     </div>
 </footer>
-
-<hr class="my-4">
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
