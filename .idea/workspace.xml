@@ -2,92 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0dadb3c-ce0d-4faf-9eb4-8b54f71c6a08" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/EducationTimeline/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EducationTimeline/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EducationTimeline/education.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EducationTimeline/img/cd-icon-college.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EducationTimeline/img/cd-icon-location.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EducationTimeline/img/cd-icon-movie.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EducationTimeline/img/cd-icon-picture.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EducationTimeline/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EducationTimeline/js/modernizr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/css/component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/css/component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/css/demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/fonts/codropsicons/codropsicons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/fonts/codropsicons/codropsicons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/fonts/codropsicons/codropsicons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/fonts/codropsicons/codropsicons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/fonts/codropsicons/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/iPhone5_front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen2_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen2_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/images/screen2_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/js/classie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/js/modernizr.custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/js/phoneSlideshow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileShowcase/mobile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom_css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fakeLoader.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/sticky-footer-navbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/custom_js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/fakeLoader.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/smoothscroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/font-awesome.scss" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -101,11 +18,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="276" column="21" lean-forward="true" selection-start-line="276" selection-start-column="21" selection-end-line="276" selection-end-column="21" />
+            <state relative-caret-position="387">
+              <caret line="48" column="28" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -117,6 +52,7 @@
       <find>page-header</find>
       <find>navbar-right</find>
       <find>fill</find>
+      <find>navbarNav</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -129,6 +65,7 @@
         <option value="$PROJECT_DIR$/images/mrcooper.svg" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/index.js" />
       </list>
     </option>
   </component>
@@ -155,6 +92,11 @@
             <path>
               <item name="Ajitesh-Tiwari.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ajitesh-Tiwari.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ajitesh-Tiwari.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ajitesh-Tiwari.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,7 +146,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18386000" />
+    <option name="totallyTimeSpent" value="21087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="23" width="1615" height="947" extended-state="0" />
@@ -308,10 +250,85 @@
     <entry file="file://$PROJECT_DIR$/less/core.less">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/Java.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="276" column="21" lean-forward="true" selection-start-line="276" selection-start-column="21" selection-end-line="276" selection-end-column="21" />
+        <state relative-caret-position="1493">
+          <caret line="119" column="46" selection-start-line="119" selection-start-column="46" selection-end-line="119" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="186" column="16" selection-start-line="186" selection-start-column="16" selection-end-line="186" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom_css.css" />
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/scrolling-nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.easing.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2532" selection-start-column="2532" selection-end-column="2532" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scrolling-nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="186" column="16" selection-start-line="186" selection-start-column="16" selection-end-line="186" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom_css.css" />
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
         </state>
       </provider>
     </entry>
